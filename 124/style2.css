@@ -10,3 +10,14 @@ h2{
 li{
     color: red;
 }
+.photo1 {
+    width: 750px;
+    height: 500px;
+    border-color: rgb(197, 66, 66);
+   
+  }
+  .photo2{
+    width: 650px;
+    height: 500px;
+    border-color: rgb(211, 63, 63);
+  }
