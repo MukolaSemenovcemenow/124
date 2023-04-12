@@ -17,7 +17,13 @@ li{
    
   }
   .photo2{
-    width: 650px;
+    width: 550px;
     height: 500px;
     border-color: rgb(211, 63, 63);
+  }
+  p{
+    color:brown  ;
+  }
+  p{
+    color: crimson;
   }
